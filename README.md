@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/Pooja9824">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&hide_border=true&title_color=cyan&amp&icon_color=cyan&amp&text_color=151515&amp&bg_color=ffffff&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pooja9824&show_icons=true&hide_border=true&title_color=ffffff&amp&icon_color=blue&amp&text_color=ffffff&amp&bg_color=151515&count_private=true&include_all_commits=true"/>
   </a>
 
 </p>
@@ -33,7 +33,6 @@
 	<a href="https://github.com/Pooja9824"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 </p>
 <br/>
-
 
 ![](https://activity-graph.herokuapp.com/graph?username=Pooja9824&theme=react-dark&hide_border=true&area=true)
 <!---
