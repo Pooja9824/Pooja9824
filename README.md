@@ -6,9 +6,26 @@
 <br>
 
 <p align="center">
-👨‍💻 Programming Languages<br><br>
+👨‍💻 Technology<br><br>
+<code><img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></code>
+<code><img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></code>
+<code><img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></code>
+<code><img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/></code>
+
+
+</p>
+<br>
+
+<p align="center">
+👨‍💻 Front-End<br><br>
 <code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
 <code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code>
+</p>
+<br>
+
+<p align="center">
+💾 Databases<br><br>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
 </p>
 <br>
 
